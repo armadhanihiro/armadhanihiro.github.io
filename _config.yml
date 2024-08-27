@@ -9,4 +9,42 @@ author: "Armadhani Hiro"
 
 # Build Settings
 theme: "jekyll-theme-cayman" # Change to the theme you're using
-# markdown: "kramdown"
+markdown: "kramdown"
+
+# Jekyll Configuration
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude these files and directories from the site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Social Links (Optional)
+social:
+  github: "https://github.com/armadhanihiro"
+  linkedin: "https://www.linkedin.com/in/armadhanihiro"
+  email: "mailto:hiroarmadhani@gmail.com"
+
+# Permalinks
+permalink: /:title/
+
+# Pagination (Optional)
+paginate: 5
+paginate_path: "/page:num/"
+
+# Google Analytics (Optional)
+google_analytics: "UA-XXXXXXXXX-X"
+
+# Sitemap Settings
+sitemap:
+  changefreq: "weekly"
+  priority: "1.0"
+  exclude:
+    - "/404.html"
+
+# End of config.yml

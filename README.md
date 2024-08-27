@@ -50,7 +50,7 @@ INTERNATIONAL JOURNAL ON INFORMATION AND COMMUNICATION TECHNOLOGY (IJOICT)  VOL.
 
 ## 🌟 Featured Projects
 
-### [Animlaia Virtual Assistant](https://github.com/armadhanihiro/Animalia-Virtual-Assistant)
+### [Go Store](https://github.com/armadhanihiro/go-store)
 - **Description:** Go Store is an API project built with the Go language. This system facilitates users in conducting the buying and selling process for a product.
 - **Tech Stack:** Gin, Gorm, PostgreSQL
 

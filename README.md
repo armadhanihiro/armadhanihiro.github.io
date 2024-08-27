@@ -20,7 +20,7 @@ I am a graduate student in computer science with a strong passion for pursuing a
       - Designing a template that could be utilized by users globally requires extra attention to detail and learning. I improve technical skills, and understanding of user-centric design by getting productive feedback from our dev and design team.
       - Reflect on the process of creating the template, the skills that I developed, and the challenges you encountered. Consider how this experience has enhanced my understanding of web design and the QuickSite.guru platform. Identify areas for further improvement and set goals for my continued learning.
 
-- **Backend Developer @ Telkom Indonesia	**
+- **Backend Developer @ Telkom Indonesia**
   - **Duration:** July 2023 - December 2023
   - **Responsibilities:**
       - Developed and maintained a Golang application, focusing on hands-on applications used for monitoring IoT devices.
@@ -45,7 +45,7 @@ I am a graduate student in computer science with a strong passion for pursuing a
 
 
 ## Publication
-**Movie Recommendation System Based on Synopsis Using Content-Based Filtering with TF-IDF and Cosine Similarity**
+**Movie Recommendation System Based on Synopsis Using Content-Based Filtering with TF-IDF and Cosine Similarity** <br />
 INTERNATIONAL JOURNAL ON INFORMATION AND COMMUNICATION TECHNOLOGY (IJOICT)  VOL. 9 NO. 2 (2023)
 
 ## 🌟 Featured Projects

@@ -4,9 +4,9 @@ title: Armadhani Hiro Juni Permana
 # description: 
 # show_downloads: true
 baseurl: "" # Leave this empty unless your site is in a subdirectory
-url: "https://yourusername.github.io" # Your GitHub Pages URL
+url: "https://armadhanihiro.github.io" # Your GitHub Pages URL
 author: "Armadhani Hiro"
 
 # Build Settings
 theme: "jekyll-theme-cayman" # Change to the theme you're using
-markdown: "kramdown"
+# markdown: "kramdown"
